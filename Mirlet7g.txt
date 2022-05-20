@@ -1,3 +1,4 @@
+track type=bedGraph name="Mirlet7g" description="Mirlet7g" visibility=full color=200,100,0 altColor=0,100,200 priority=20 alwaysZero=on
 chr9	106056039	106056040	0
 chr9	106056040	106056041	0
 chr9	106056041	106056042	0
