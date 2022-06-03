@@ -8,3 +8,6 @@
 2. 1의 좌표 범위로 bam을 솎아냄
 3. base별로 Shannon entropy 계산한 후, 이를 높은차순으로 정렬
 4. UCSC Genome Browser에 접속해서 visualization
+
+220603 update
+- 1~4 진행했으나, Mirlet7d bam 파일을 같이 visualization하는 데에 다소의 문제 (UCSC browser 사용에 미숙한 부분 있음)
